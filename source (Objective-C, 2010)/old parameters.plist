@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ambiguity</key>
+	<integer>0</integer>
+	<key>del cont</key>
+	<real>-2</real>
+	<key>del open</key>
+	<real>-10</real>
+	<key>ins cont</key>
+	<string>-2</string>
+	<key>ins open</key>
+	<string>-10</string>
+	<key>match</key>
+	<string>4</string>
+	<key>mismatch</key>
+	<string>-4</string>
+</dict>
+</plist>

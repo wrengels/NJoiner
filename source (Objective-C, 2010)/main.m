@@ -1,0 +1,1 @@
+////  main.m//  NJoiner////  Created by Bill Engels on 2/22/10.//  Copyright 2010 University of Wisconsin. All rights reserved.//#import <Cocoa/Cocoa.h>int main(int argc, char *argv[]){    return NSApplicationMain(argc, (const char **) argv);}

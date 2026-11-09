@@ -1,0 +1,8 @@
+sample,junctions (tab),junctions (port),in-del (tab),in-del (port),EJ (tab),EJ (port),EJ with mh (tab),EJ with mh (port),% of EJ (tab),% of EJ (port),4-bp mh (tab),4-bp mh (port),4-bp % of EJ (tab),4-bp % of EJ (port),4-bp = AGGG repeat (port),4-bp = ATAA overhang (port)
+"21C, young",38,37,9,9,29,28,24,24,82.8,85.7,11,11,37.9,39.3,10,0
+"21C, old",20,18,6,5,14,13,7,6,50.0,46.2,1,0,7.1,0.0,0,0
+"82D, young",13,12,4,5,9,7,3,2,33.3,28.6,1,1,11.1,14.3,0,1
+"48C, young",91,91,28,27,63,64,52,53,82.5,82.8,22,22,34.9,34.4,18,0
+"48C, 3 weeks",89,87,16,14,73,73,56,56,76.7,76.7,22,22,30.1,30.1,22,0
+"48C, 4-6 weeks",82,80,23,22,59,58,36,38,61.0,65.5,12,14,20.3,24.1,12,2
+"48C, held to old age",78,67,23,27,55,40,25,26,45.5,65.0,12,13,21.8,32.5,12,1
